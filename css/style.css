@@ -1,0 +1,16 @@
+.text-center {
+    text-align: center;
+}
+
+.main-post {
+    border: 1px solid black;
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    color: aquamarine;
+}
